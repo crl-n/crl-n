@@ -10,6 +10,7 @@ I'm a student at [Hive Helsinki](https://www.hive.fi/en/) and a software develop
 - Writing code that balances performance and maintainability → clean code, design patterns, system design and software architecture etc.
 - Solving problems using code → data structures, algorithms and AI.
 - Using thoughtful ways of working to achieve a smarter development process → agile.
+- Open source.
 <br>
 
 **Technologies I'm currently working with:** C, Typescript Node.js, React Native, Python, Sh
