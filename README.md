@@ -21,7 +21,7 @@ I'm a software developer at [Tietoevry](https://www.tietoevry.com/fi/) and a [Hi
 
 - Working on a Markdown-to-HTML transpiler for my personal website.
 - Working on [a linear regression library](https://github.com/crl-n/linear-regression) from scratch, written in C with a Python API.
-- Learning about Javascript Typescript.
+- Learning about fullstack development in Javascript and Typescript.
 
 <br>
 
